@@ -11,6 +11,6 @@ public class HelloWorldController {
 
     @GetMapping("")
     public String getMethodName() {
-        return "Hoy es sabado  ";
+        return "hola hoy no es sabado ahora es martes :( ";
     }
 }
